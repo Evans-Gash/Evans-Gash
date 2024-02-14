@@ -1,5 +1,7 @@
 <h2 align="left">Hi there! 👋<br><br>I'm Evans, a passionate full-stack software engineer with a focus on front-end development and graphic design. 💻🎨 Excited about creating harmonious user experiences and turning creative ideas into functional code. Let's build beautiful things together! 🚀✨</h2>
 
+
+<div align="center">
 <center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F7C118&center=true&vCenter=true&width=435&lines=I'm+%F0%9F%91%8B;EVANS+MUGAMBI;A;Full+Stack+Developer;Web+Designer+%26+Developer;DEV+%2F+PROGRAMER;UI+%2F+UX+DESIGNER;GRAPHIC+DESIGNER;I'M+FROM;NAIROBI,KENYA;(%C2%B4%E2%80%A2%E2%80%BF%E2%80%A2%60)+" alt="Typing SVG"/>
 </div></center>
 
@@ -137,7 +139,7 @@ My Traits :
 
 ```
 
-<h2 align='left'>Thank You ❤</h2>
+<h2 align='center'>Thank You! </h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
