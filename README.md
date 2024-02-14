@@ -117,25 +117,44 @@ Languages: JavaScript, TypeScript, Java
 Hobbies: Coding , FX Trading , Design , MMA , Self Improvment
 My Traits : 
 1 - Analytical : 
-🔹 Engaging in coding and FX trading requires a keen analytical mind to dissect complex problems and identify optimal solutions.
+🔹 Engaging in coding and FX trading requires a keen analytical mind to dissect complex, 
+  problems and identify optimal solutions.
+
 2 - Good Communicator : 
-🔹I know how to communicate clearly and effectively, both in writing and in person. I'm able to explain complex technical concepts to non-technical people.
+🔹I know how to communicate clearly and effectively, both in writing and in person. 
+  I'm able to explain complex technical concepts to non-technical people.
+
 3 - Creative :
-🔹Pursuing hobbies like design and MMA often involves creativity, whether it's in crafting visually appealing designs or developing innovative fighting techniques.
+🔹Pursuing hobbies like design and MMA often involves creativity, 
+  whether it's in crafting visually appealing designs or developing innovative fighting techniques.
+
 4 - Disciplined :
-🔹In both FX trading and MMA, discipline is essential for success. This individual likely possesses the self-discipline to stick to trading strategies and training routines. 
+🔹In both FX trading and MMA, discipline is essential for success.
+  The self-discipline to stick to trading strategies and training routines.
+
 5 - Adaptive :
-🔹The world of coding is ever-evolving, as is the market in FX trading. Being adaptable allows this person to quickly learn new programming languages, adapt trading strategies to changing market conditions, and adjust fighting tactics in MMA.
+🔹The world of coding is ever-evolving, as is the market in FX trading.
+  Being adaptable allows this person to quickly learn new programming languages, 
+  adapt trading strategies to changing market conditions, and adjust fighting tactics in MMA.
+
 6 - I'm a Lifelong Learner  :
-🔹I love Coding So I'm always learning new things, whether it's a new programming language or a new way to solve a problem.I'm not afraid of change, and I'm always looking for ways to improve My skills 
-🔹I love this Quote "Life = Coding Forever"
+🔹I love Coding So I'm always learning new things, whether it's a new programming language or,
+  a new way to solve a problem.I'm not afraid of change, and I'm always looking for ways to improve My skills 
+🔹I love this Quote "I will tell you how to become rich. Close the doors. 
+  Be fearful when others are greedy. Be greedy when others are fearful"
+
 7 - I'm a Team leader :
-🔹I know that there's strength in numbers. I'm able to work well with others, and I'm always looking for ways to help the team succeed,
+🔹I know that there's strength in numbers. I'm able to work well with others, 
+  and I'm always looking for ways to help the team succeed,
 🔹I have a team spirit and I love cooperation because one of the secrets of success is the success of the group.
+
 8 -  Driven :
-🔹 With interests spanning from self-improvement to coding and trading, this individual is likely highly motivated and driven to achieve their goals, both personally and professionally.
+🔹 With interests spanning from self-improvement to coding and trading, I'm highly motivated and driven to achieve my goals, 
+   both personally and professionally.
+
 9 - Resilient :
-🔹Whether facing setbacks in coding projects, losses in trading, or challenges in MMA training, resilience is key. This person likely possesses the resilience to bounce back from failures, learn from mistakes, and keep pushing forward towards their aspirations.
+🔹Whether facing setbacks in coding projects, losses in trading, or challenges in MMA training, resilience is key.
+  I have the resilience to bounce back from failures, learn from mistakes, and keep pushing forward towards their aspirations.
 
 ```
 
